@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TarunT
 - 👀 I’m interested in coding and thriving to learn more about coding I also love working out and being in fit shape
-- 🌱 I’m currently learning Python and Java
+- 🌱 Proficient Python and Java
 - 💞️ I’m looking to collaborate on a group project where we both can learn efficienalty  
 - 📫 How to reach me taruntata66@gmail.com
 - 😄 Pronouns: He/Him
