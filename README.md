@@ -1,8 +1,8 @@
 # 💫 About Me:
 I'm a current Student <br>
-Created a mass survulaiance data analysis tool named Visiontr
+Created a mass survulaiance data analysis tool named Visiontr <br>
 Created a robin hood clone <br>
-Created a Health AI driven web application
+Created a Health AI driven web application <br>
 Created a personal nutrition tracking AI app called NutriTracker AI <br>
 Avid math and technology/business enthusiast <br>
 
