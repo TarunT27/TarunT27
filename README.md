@@ -92,7 +92,7 @@ Building AI applications, automation frameworks, and scalable software.
 
 ![](https://github-readme-stats.vercel.app/api?username=TarunT27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=TarunT27&theme=tokyonight&hide_border=true)
+![GitHub contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarunT27&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunT27&theme=tokyonight&hide_border=true&layout=compact)
 
