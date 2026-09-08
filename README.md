@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Tata</h1>
 
 <h3 align="center">
-Computer Science Student @ Rutgers University–Newark • Software Engineer • AI Enthusiast
+CS & Mathamatics @ Rutgers University–Newark • AI Software Engineer
 </h3>
 
 <p align="center">
