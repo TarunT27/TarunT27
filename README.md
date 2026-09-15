@@ -15,8 +15,7 @@ Building AI applications, automation frameworks, and scalable software.
 - 💼 Software Quality Engineering Intern @ **TD Bank**
 - 🎓 Computer Science student at **Rutgers University–Newark**
 - 🤖 Interested in AI Engineering, Machine Learning, and Large Language Models
-- ⚡ Experienced with Playwright, Selenium, TypeScript, Java, Python, and Cloud Technologies
-- 🌱 Currently learning AI Agents, RAG, Cloud Architecture, and Full Stack Development
+- ⚡ Experienced with Playwright, Selenium, TypeScript, Java, Python, AI Agents, RAG, Cloud Architecture and Cloud Technologies
 - 📫 Reach me at **taruntata66@gmail.com**
 
 ---
